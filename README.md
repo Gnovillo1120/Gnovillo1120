@@ -32,4 +32,5 @@ Built with **Kotlin · Android SDK**
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gsnovillo-blue?logo=linkedin)](https://linkedin.com/in/gsnovillo)
-[![Email](https://img.shields.io/badge/Email-gsnovillo@ufl.edu-red?logo=gmail)](mailto:gsnovillo@ufl.edu)
+[![Email](https://img.shields.io/badge/Email-gsnovillo@ufl.edu-red?logo=gmail)](mailto:gsnovillo@gmail.com
+)
