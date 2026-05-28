@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Guillermo Novillo 👋
 
-<!--
-**Gnovillo1120/Gnovillo1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of Florida** (Class of 2028) |
+Passionate about full-stack development, mobile apps, and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python · Kotlin · TypeScript · JavaScript · C++ · HTML · CSS  
+**Frameworks & Tools:** Next.js · React · Node.js · Prisma · Streamlit · Android SDK  
+**Databases & Cloud:** PostgreSQL · Supabase · Docker · Vercel · GitHub Actions  
+
+---
+
+## 🚀 Featured Projects
+
+### [FairShare](https://github.com/DormBalance/FairShare) — Shared Expense Tracker
+Full-stack web app for college roommates to split and track household expenses.  
+Built with **Next.js · TypeScript · PostgreSQL · Prisma · Supabase · Vercel**
+
+### [Diabetes Risk Predictor](https://github.com/Gnovillo1120/DSA-Diabetes-Final-Project) — ML from Scratch
+Logistic regression & SVM classifiers built from scratch in NumPy on 100k+ CDC records.  
+Interactive **Streamlit** dashboard with real-time risk calculator and model comparison.
+
+### [SHPE UF Mobile App](https://github.com/shpe-uf/SHPE-UF-Mobile-Kotlin) — Android
+Contributor to the official SHPE UF Android app, live on the Google Play Store with 100+ downloads.  
+Built with **Kotlin · Android SDK**
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gsnovillo-blue?logo=linkedin)](https://linkedin.com/in/gsnovillo)
+[![Email](https://img.shields.io/badge/Email-gsnovillo@ufl.edu-red?logo=gmail)](mailto:gsnovillo@ufl.edu)
